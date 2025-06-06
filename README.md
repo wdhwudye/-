@@ -229,7 +229,7 @@
         </div>
         <div class="achievement-card">
           <h3>コミュニティ影響力</h3>
-          <p>Xで17.6万フォロワー、市場を動かす発言力！</p>
+          <p>Xで46.4万フォロワー、市場を動かす発言力！</p>
         </div>
       </div>
     </section>
