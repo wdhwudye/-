@@ -1,3 +1,4 @@
+
 <噴火ペンギン🐧【株式投資】銘柄の選び方>
 <html lang="ja">
 <head>
@@ -12,7 +13,7 @@
 <meta name="twitter:site" content="@Tonpin1234">
 <meta name="twitter:title" content="6月の急騰株情報">
 <meta name="twitter:description" content="46.4万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg"> 
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1919175394642825216/JQyskQK8_400x400.jpg"> 
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -174,3 +175,101 @@
       text-align: center;
       background: #0A1A2F;
     }
+
+    .footer p {
+      color: #B0BEC5;
+      font-size: 0.9rem;
+    }
+
+    .footer a {
+      color: #FF6F00;
+      text-decoration: none;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .hero h1 {
+        font-size: 2.5rem;
+      }
+
+      .hero p {
+        font-size: 1rem;
+      }
+
+      .cta-button {
+        padding: 12px 25px;
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Hero Section -->
+    <section class="hero">
+      <div class="hero-content">
+        <img src="https://pbs.twimg.com/profile_images/1919175394642825216/JQyskQK8_400x400.jpg" alt="トンピンのアイコン" class="avatar">
+        <h1>トンピンの投資道</h1>
+        <p>46.4万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
+        <a href="https://works.do/56L3EJ9" target="_blank" class="cta-button">LINEで友達追加</a>
+      </div>
+    </section>
+
+    <!-- Achievements Section -->
+    <section class="achievements">
+      <h2>トンピンの輝く実績</h2>
+      <div class="achievement-grid">
+        <div class="achievement-card">
+          <h3>7352 TWOSTONE</h3>
+          <p>2025年14経商利益480%増、株価急騰を的確に予測！</p>
+        </div>
+        <div class="achievement-card">
+          <h3>3133 海帆</h3>
+          <p>資産26億→37億、成長株をいち早く発掘！</p>
+        </div>
+        <div class="achievement-card">
+          <h3>コミュニティ影響力</h3>
+          <p>Xで17.6万フォロワー、市場を動かす発言力！</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+      <h2>トンピンから学ぼう！</h2>
+      <p>短線取引、题材株攻略、逆勢操作…トンピンの戦略であなたの投資を次のレベルへ！</p>
+      <a href="https://line.me/ti/p/rFJYaPcDsW" target="_blank" class="cta-button">LINEで友達追加</a>
+      <a href="https://x.com/Funkapengin" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
+    </section>
+
+    <!-- Footer -->
+    <section class="footer">
+      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Tonpin1234">X公式アカウント</a></p>
+      <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資は自己責任で行ってください。</p>
+    </section>
+  </div>
+
+  <script>
+    // 数字アニメーション（オプション）
+    const counters = document.querySelectorAll('.achievement-card p');
+    counters.forEach(counter => {
+      const updateCount = () => {
+        const target = counter.innerText.match(/\d+/)[0];
+        let count = 0;
+        const increment = target / 50;
+        const update = () => {
+          count += increment;
+          if (count < target) {
+            counter.innerText = counter.innerText.replace(/\d+/, Math.floor(count));
+            requestAnimationFrame(update);
+          } else {
+            counter.innerText = counter.innerText.replace(/\d+/, target);
+          }
+        };
+        update();
+      };
+      updateCount();
+    });
+  </script>
+</body>
+</html>
