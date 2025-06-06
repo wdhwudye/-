@@ -221,11 +221,11 @@
       <div class="achievement-grid">
         <div class="achievement-card">
           <h3>7352 TWOSTONE</h3>
-          <p>2025年14経商利益480%増、株価急騰を的確に予測！</p>
+          <p>2025年10経商利益480%増、株価急騰を的確に予測！</p>
         </div>
         <div class="achievement-card">
           <h3>3133 海帆</h3>
-          <p>資産26億→37億、成長株をいち早く発掘！</p>
+          <p>資産61萬→2億、成長株をいち早く発掘！</p>
         </div>
         <div class="achievement-card">
           <h3>コミュニティ影響力</h3>
@@ -244,7 +244,7 @@
 
     <!-- Footer -->
     <section class="footer">
-      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Tonpin1234">X公式アカウント</a></p>
+      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Funkapengin">X公式アカウント</a></p>
       <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資は自己責任で行ってください。</p>
     </section>
   </div>
