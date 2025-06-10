@@ -3,16 +3,16 @@
 <head>
 <!-- 必填的Open Graph协议 -->
 <meta property="og:title" content="6月の急騰株情報">
-<meta property="og:description" content="6.7万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1211620786349330433/_eJ8oVgz_400x400.jpg"> 
+<meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
+<meta property="og:image" content="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg"> 
 <meta property="og:url" content="https://您的完整网页URL">
 
 <!-- Twitter专用标签 -->
 <meta name="twitter:card" content="summary"> <!-- 关键修改！ -->
 <meta name="twitter:site" content="@Tonpin1234">
 <meta name="twitter:title" content="6月の急騰株情報">
-<meta name="twitter:description" content="6.7万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1211620786349330433/_eJ8oVgz_400x400.jpg.jpg"> 
+<meta name="twitter:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg"> 
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -207,7 +207,7 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">
-        <img src="https://pbs.twimg.com/profile_images/1211620786349330433/_eJ8oVgz_400x400.jpg" alt="トンピンのアイコン" class="avatar">
+        <img src="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg" alt="トンピンのアイコン" class="avatar">
         <h1>トンピンの投資道</h1>
         <p>4.67万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
         <a href="https://works.do/52riJCG" target="_blank" class="cta-button">LINEで友達追加</a>
@@ -224,11 +224,11 @@
         </div>
         <div class="achievement-card">
           <h3>3133 海帆</h3>
-          <p>資産61萬→2億、成長株をいち早く発掘！</p>
+          <p>資産26億→37億、成長株をいち早く発掘！</p>
         </div>
         <div class="achievement-card">
           <h3>コミュニティ影響力</h3>
-          <p>Xで4.67万フォロワー、市場を動かす発言力！</p>
+          <p>Xで17.6万フォロワー、市場を動かす発言力！</p>
         </div>
       </div>
     </section>
@@ -238,12 +238,12 @@
       <h2>トンピンから学ぼう！</h2>
       <p>短線取引、题材株攻略、逆勢操作…トンピンの戦略であなたの投資を次のレベルへ！</p>
       <a href="https://line.me/ti/p/LkAfGJBKb8" target="_blank" class="cta-button">LINEで友達追加</a>
-      <a href="https://x.com/Investor__X" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
+      <a href="https://x.com/Tonpin1234" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
     </section>
 
     <!-- Footer -->
     <section class="footer">
-      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Investor__X">X公式アカウント</a></p>
+      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Tonpin1234">X公式アカウント</a></p>
       <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資は自己責任で行ってください。</p>
     </section>
   </div>
