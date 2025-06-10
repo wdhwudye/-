@@ -1,18 +1,18 @@
-<噴火ペンギン🐧【株式投資】銘柄の選び方>
+テンバガー投資家Xの10倍株発掘プロジェクト
 <html lang="ja">
 <head>
 <!-- 必填的Open Graph协议 -->
 <meta property="og:title" content="6月の急騰株情報">
-<meta property="og:description" content="4.67万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1919175394642825216/JQyskQK8_400x400.jpg"> 
+<meta property="og:description" content="6.7万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
+<meta property="og:image" content="https://pbs.twimg.com/profile_images/1211620786349330433/_eJ8oVgz_400x400.jpg"> 
 <meta property="og:url" content="https://您的完整网页URL">
 
 <!-- Twitter专用标签 -->
 <meta name="twitter:card" content="summary"> <!-- 关键修改！ -->
 <meta name="twitter:site" content="@Tonpin1234">
 <meta name="twitter:title" content="6月の急騰株情報">
-<meta name="twitter:description" content="4.67万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1919175394642825216/JQyskQK8_400x400.jpg"> 
+<meta name="twitter:description" content="6.7万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
+<meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1211620786349330433/_eJ8oVgz_400x400.jpg.jpg"> 
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -207,7 +207,7 @@
     <!-- Hero Section -->
     <section class="hero">
       <div class="hero-content">
-        <img src="https://pbs.twimg.com/profile_images/1919175394642825216/JQyskQK8_400x400.jpg" alt="トンピンのアイコン" class="avatar">
+        <img src="https://pbs.twimg.com/profile_images/1211620786349330433/_eJ8oVgz_400x400.jpg" alt="トンピンのアイコン" class="avatar">
         <h1>トンピンの投資道</h1>
         <p>4.67万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
         <a href="https://works.do/52riJCG" target="_blank" class="cta-button">LINEで友達追加</a>
