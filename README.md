@@ -238,12 +238,12 @@
       <h2>トンピンから学ぼう！</h2>
       <p>短線取引、题材株攻略、逆勢操作…トンピンの戦略であなたの投資を次のレベルへ！</p>
       <a href="https://line.me/ti/p/LkAfGJBKb8" target="_blank" class="cta-button">LINEで友達追加</a>
-      <a href="https://x.com/Funkapengin" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
+      <a href="https://x.com/Investor__X" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
     </section>
 
     <!-- Footer -->
     <section class="footer">
-      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Funkapengin">X公式アカウント</a></p>
+      <p>© 2025 トンピンフィナンシャル | <a href="https://x.com/Investor__X">X公式アカウント</a></p>
       <p>本ページは情報提供のみを目的とし、投資推奨ではありません。投資は自己責任で行ってください。</p>
     </section>
   </div>
