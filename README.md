@@ -1,5 +1,3 @@
-テンバガー投資家Xの10倍株発掘プロジェクト
-<html lang="ja">
 <head>
 <!-- 必填的Open Graph协议 -->
 <meta property="og:title" content="6月の急騰株情報">
