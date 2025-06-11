@@ -1,7 +1,7 @@
 <!-- 必填的Open Graph协议 -->
 <meta property="og:title" content="6月の急騰株情報">
 <meta property="og:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta property="og:image" content="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg"> 
+<meta property="og:image" content="https://github.com/user-attachments/assets/605b3218-229f-4995-a633-c46357a7964f"> 
 <meta property="og:url" content="https://您的完整网页URL">
 
 <!-- Twitter专用标签 -->
@@ -9,7 +9,7 @@
 <meta name="twitter:site" content="@Tonpin1234">
 <meta name="twitter:title" content="6月の急騰株情報">
 <meta name="twitter:description" content="17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！">
-<meta name="https://pbs.twimg.com/profile_images/1930991008919281665/Zsmb7Cza_400x400.jpg"> 
+<meta name="twitter:image" content="https://github.com/user-attachments/assets/605b3218-229f-4995-a633-c46357a7964f"> 
 <meta name="twitter:url" content="https://您的完整网页URL">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -206,10 +206,52 @@
       <div class="hero-content">
         <img src="https://pbs.twimg.com/profile_images/1572765560341135361/-ZIb5-kx_400x400.jpg" alt="トンピンのアイコン" class="avatar">
         <h1>トンピンの投資道</h1>
-        <p>4.67万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
-        <a href="https://works.do/GZ7IQal" target="_blank" class="cta-button">LINEで友達追加</a>
+        <p>17.6万人のフォロワーが信頼するトンピンの戦略で、市場を制覇しよう！</p>
+        <a href="https://works.do/52riJCG" target="_blank" class="cta-button">LINEで友達追加</a>
       </div>
     </section>
+<!-- Learning Section -->
+<section class="achievements">
+  <h2>📚 投資の基礎を学ぼう</h2>
+
+  <div class="achievement-grid">
+
+    <!-- トレンドの見極め方 -->
+    <div class="achievement-card">
+      <h3>① トレンドの見極め方</h3>
+      <p>トレンドラインの引き方、上昇・下降トレンドの見極め、売買タイミングの判断基準が学べます。</p>
+      <details>
+        <summary>▶ 詳しく読む</summary>
+        <p>株価の「山と谷」を見極めて、相場の流れを読み解く方法。サポートライン・レジスタンスラインの引き方や、トレンド転換の見分け方も解説。</p>
+        <a href="https://github.com/user-attachments/files/20683139/default.pdf" download style="color:#00B7EB;">📎 Wordファイルをダウンロード</a>
+      </details>
+    </div>
+
+    <!-- 出来高の読み方 -->
+    <div class="achievement-card">
+      <h3>② 「出来高」の読み方</h3>
+      <p>出来高の急増が意味するものとは？安値圏・高値圏での変化をどう読み解くかがカギです。</p>
+      <details>
+        <summary>▶ 詳しく読む</summary>
+        <p>出来高とは取引量のことで、注目度の指標。価格帯別出来高を見ることで「売り買いが集まる節目」も予測できます。</p>
+        <a href="https://github.com/user-attachments/files/20682998/default.pdf" download style="color:#00B7EB;">📎 PDFファイルをダウンロード</a>
+      </details>
+    </div>
+
+    <!-- ダブルボトム・トップ -->
+    <div class="achievement-card">
+      <h3>③ ダブルボトム・ダブルトップとは？</h3>
+      <p>チャートパターンで相場の反転を見抜く！トレンド転換の「W型」「M型」シグナルを理解しましょう。</p>
+      <details>
+        <summary>▶ 詳しく読む</summary>
+        <p>ダブルボトムは買いサイン、ダブルトップは売りサイン。ネックライン突破で売買タイミングが見えてきます。</p>
+        <a href="https://github.com/user-attachments/files/20683035/_.pdf" download style="color:#00B7EB;">📎 PDFファイルをダウンロード</a>
+      </details>
+    </div>
+
+  </div>
+</section>
+
 
     <!-- Achievements Section -->
     <section class="achievements">
@@ -217,7 +259,7 @@
       <div class="achievement-grid">
         <div class="achievement-card">
           <h3>7352 TWOSTONE</h3>
-          <p>2025年10経商利益480%増、株価急騰を的確に予測！</p>
+          <p>2025年1Q経商利益480%増、株価急騰を的確に予測！</p>
         </div>
         <div class="achievement-card">
           <h3>3133 海帆</h3>
@@ -234,7 +276,7 @@
     <section class="cta-section">
       <h2>トンピンから学ぼう！</h2>
       <p>短線取引、题材株攻略、逆勢操作…トンピンの戦略であなたの投資を次のレベルへ！</p>
-      <a href="https://works.do/GZ7IQal" target="_blank" class="cta-button">LINEで友達追加</a>
+      <a href="https://works.do/52riJCG" target="_blank" class="cta-button">LINEで友達追加</a>
       <a href="https://x.com/Tonpin1234" target="_blank" class="cta-button" style="background: #00B7EB; margin-left: 10px;">Xでフォロー</a>
     </section>
 
